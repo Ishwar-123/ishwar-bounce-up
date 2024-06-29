@@ -1,0 +1,189 @@
+@media (min-width:481px) and (max-width:768px) {
+   
+        .vidmain{
+            width: 100%;
+            height: 432px;
+        }
+        .vidmain video{
+            width: 100%;
+            /* height: 100vh; */
+        }
+        .main2{
+            width: 100%;
+            height: 315vh;
+            background-color: #272727;
+            /* display: flex; */
+            /* align-items: center; */
+            justify-content: center;
+        }
+        .one{
+            height: 70px;
+            width: 100%;
+            display: flex;
+        }
+        .pricing{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* margin-left: 100px; */
+            /* margin-top: 20px; */
+        
+        }
+        .pricing button{
+            
+            width: 90px;
+            height: 40px;
+            border: none;
+            color: white;
+            background-color: #FF3277;
+            border-radius: 40px;
+        }
+        .pricing button a{
+            color: white;
+            background-color: #FF3277;
+            border-radius: 40px;
+            font-size: 17px;
+            text-decoration: none;
+        }
+        
+        .act{
+            width: 100%;
+            height: 1037px;
+            display: flex;
+            flex-wrap: wrap;
+            /* align-items: center; */
+            justify-content: center;
+            align-items: center;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        .two {
+            width: 77%;
+            background-image: url("Img/img1.webp");
+            background-repeat: no-repeat;
+            background-size: 100%; 
+            height: 195px; 
+        }
+        
+        .five{
+            width: 77%;
+            display: flex;
+            height: 380px;
+        }
+        .three{
+            width: 48%;
+            background-image: url("Img/img2.webp");
+            background-repeat: no-repeat;
+            background-size: 100%; 
+            height: 380px;
+        }
+        .four{
+            width: 48%;
+            background-image: url("Img/img3.webp");
+            background-repeat: no-repeat;
+            background-size: 100%; 
+            height: 380px;
+            margin-left: 25px;
+        }
+        .six{
+            width: 77%;
+            display: flex;
+            height: 380px;
+        }
+        .seven{
+            width: 48%;
+            background-image: url("Img/img4.webp");
+            background-repeat: no-repeat;
+            background-size: 100%; 
+            height: 380px;
+        }
+        .eight{
+            width: 48%;
+            background-image: url("Img/img5.webp");
+            background-repeat: no-repeat;
+            background-size: 100%; 
+            height: 380px;
+            margin-left: 25px;
+        }
+        .nine{
+            height: 100px;
+            width: 100%;
+            display: flex;
+        }
+        .act2{
+            width: 100%;
+            height: 924px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            /* align-items: center; */
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        .offers{
+            display: flex;
+            /* justify-content: center; */
+            align-items: center;
+            /* margin-left: 100px; */
+            margin-top: 0;
+        }
+        .offers button{
+            color: white;
+            background-color: #0100FE;
+            width: 100px;
+            height: 50px;
+            border: none;
+            border-radius: 40px;
+            font-size: 17px;
+        }
+        
+        .offers button a{
+            color: white;
+            background-color: #0100FE;
+            text-decoration: none;
+            border-radius: 40px;
+            font-size: 17px;
+        }
+        .ten {
+            width: 77%;
+            background-image: url("Img/img6.webp");
+            background-repeat: no-repeat;
+            background-size: 100%; 
+            height: 317px; 
+            padding: 2px;
+            margin-bottom: 0;
+        }
+        .eleven{
+            width: 77%;
+            display: flex;
+            height: 270px;
+        }
+        .twelve{
+            width: 48%;
+            background-image: url("Img/img7.webp");
+            background-repeat: no-repeat;
+            background-size: 100%; 
+            height: 270px;
+        }
+        .thirteen{
+            width: 48%;
+            background-image: url("Img/img8.webp");
+            background-repeat: no-repeat;
+            background-size: 100%; 
+            height: 270px;
+            margin-left: 25px;
+        }
+        .fourteen{
+            width: 77%;
+            display: flex;
+            height: 270px;
+        }
+        .fifteen{
+            width: 48%;
+            background-image: url("Img/img9.webp");
+            background-repeat: no-repeat;
+            background-size: 100%; 
+            height: 270px;
+            margin-top: 0;
+        }
+    }

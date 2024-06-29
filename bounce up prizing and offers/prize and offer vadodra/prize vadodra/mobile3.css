@@ -1,0 +1,191 @@
+@media (min-width:320px) and (max-width:480px) {
+    .vidmain{
+        width: 100%;
+        height: 270px;
+    }
+    .vidmain{
+        width: 100%;
+        /* height: 100vh; */
+    }
+    .main2{
+        width: 100%;
+        height: 160vh;
+        background-color: #272727;
+        /* display: flex; */
+        /* align-items: center; */
+        justify-content: center;
+    }
+    .one{
+        height: 70px;
+        width: 100%;
+        display: flex;
+    }
+    .pricing{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* margin-left: 100px; */
+        /* margin-top: 20px; */
+    
+    }
+    .pricing button{
+        
+        width: 90px;
+        height: 40px;
+        border: none;
+        color: white;
+        background-color: #FF3277;
+        border-radius: 40px;
+    }
+    .pricing button a{
+        color: white;
+        background-color: #FF3277;
+        border-radius: 40px;
+        font-size: 17px;
+        text-decoration: none;
+    }
+    
+    .act{
+        width: 100%;
+        height: 615px;
+        display: flex;
+        flex-wrap: wrap;
+        /* align-items: center; */
+        justify-content: center;
+        align-items: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .two {
+        width: 77%;
+        background-image: url("Img/img1.webp");
+        background-repeat: no-repeat;
+        background-size: 100%; 
+        height: 120px; 
+    }
+    
+    .five{
+        width: 77%;
+        display: flex;
+        height: 205px;
+    }
+    .three{
+        width: 48%;
+        background-image: url("Img/img2.webp");
+        background-repeat: no-repeat;
+        background-size: 100%; 
+        height: 205px;
+    }
+    .four{
+        width: 48%;
+        background-image: url("Img/img3.webp");
+        background-repeat: no-repeat;
+        background-size: 100%; 
+        height: 205px;
+        margin-left: 25px;
+    }
+    .six{
+        width: 77%;
+        display: flex;
+        height: 205px;
+    }
+    .seven{
+        width: 48%;
+        background-image: url("Img/img4.webp");
+        background-repeat: no-repeat;
+        background-size: 100%; 
+        height: 205px;
+    }
+    .eight{
+        width: 48%;
+        background-image: url("Img/img5.webp");
+        background-repeat: no-repeat;
+        background-size: 100%; 
+        height: 205px;
+        margin-left: 25px;
+    }
+    .nine{
+        height: 100px;
+        width: 100%;
+        display: flex;
+    }
+    .act2{
+        width: 100%;
+        height: 590px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        /* align-items: center; */
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .offers{
+        display: flex;
+        /* justify-content: center; */
+        align-items: center;
+        /* margin-left: 100px; */
+    }
+    .offers button{
+        color: white;
+        background-color: #0100FE;
+        width: 100px;
+        height: 50px;
+        border: none;
+        border-radius: 40px;
+        font-size: 17px;
+    }
+    
+    .offers button a{
+        color: white;
+        background-color: #0100FE;
+        text-decoration: none;
+        border-radius: 40px;
+        font-size: 17px;
+    }
+    .ten {
+        width: 77%;
+        background-image: url("Img/img6.webp");
+        background-repeat: no-repeat;
+        background-size: 100%; 
+        height: 192px; 
+        padding: 2px;
+        margin-bottom: 0;
+    }
+    .eleven{
+        width: 77%;
+        display: flex;
+        height: 158px;
+    }
+    .twelve{
+        width: 48%;
+        background-image: url("Img/img7.webp");
+        background-repeat: no-repeat;
+        background-size: 100%; 
+        height: 158px;
+    }
+    .thirteen{
+        width: 48%;
+        background-image: url("Img/img8.webp");
+        background-repeat: no-repeat;
+        background-size: 100%; 
+        height: 158px;
+        margin-left: 25px;
+    }
+    .fourteen{
+        width: 77%;
+        display: flex;
+        height: 165px;
+    }
+    .fifteen{
+        width: 48%;
+        background-image: url("Img/img9.webp");
+        background-repeat: no-repeat;
+        background-size: 100%; 
+        height: 165px;
+        margin-top: 0;
+    }
+    
+    
+    
+    
+}
